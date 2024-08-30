@@ -40,4 +40,4 @@
 ### 体験講習希望後のLINE構築
 
 [体験講習マニュアル](/Marketing/trial-session/trial-session.md)<br>
-[体験講習文面テンプレート](/Marketing/trial-session/trial-line.md)
+┗[DM用_ 体験講習構築](/Marketing/trial-session/trial-line.md)
