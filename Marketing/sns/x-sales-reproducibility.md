@@ -35,7 +35,7 @@
 
 ### DM挨拶+体験講習の誘導
 
-[DM挨拶マニュアル](dm-greeting-template.md)
+[DM挨拶マニュアル](dm-greeting.md)
 
 ### 体験講習希望後のLINE構築
 
